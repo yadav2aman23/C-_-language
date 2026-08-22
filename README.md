@@ -46,3 +46,7 @@ This repo is intended for students who are practicing:
 - functions and return values
 
 These programs are intentionally simple and easy to read for beginners.
+
+## GitDoc automation
+
+GitDoc auto-commit delay is enabled for this workspace so changes are saved without creating a commit immediately. This keeps the repository stable while still preserving recent edits.
