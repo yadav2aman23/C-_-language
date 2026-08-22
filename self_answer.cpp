@@ -1,12 +1,19 @@
 #include <iostream>
 using namespace std;
 
+int add(int x, int y) {
+    return x + y;
+}
+
+// This program reads two numbers, adds them using a function,
+// and prints the result.
 int main() {
-    char str[20];
+    int x, y;
 
-    cout << "Enter the name: ";
-    cin >> str;
-    cout << "My name is " << str;
+    cout << "Enter two numbers: ";
+    cin >> x >> y;
 
+    int result = add(x, y);
+    cout << "Sum: " << result << endl;
     return 0;
 }

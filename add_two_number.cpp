@@ -1,14 +1,13 @@
 #include <iostream>
 using namespace std;
-int add( int x, int y ){
-    return x + y;
-}
-int main(){
-    int x ,y;
-    int result = add(x,y);
-    cout << "Enter the two number  so you did added ";
-    cin >> x >> y;
-    cout << " Sum " << result ;
-    return 0 ;
 
+// This program reads two numbers and prints their sum.
+int main() {
+    int x, y;
+
+    cout << "Enter two numbers: ";
+    cin >> x >> y;
+
+    cout << "Sum: " << x + y << endl;
+    return 0;
 }
