@@ -5,6 +5,7 @@ using namespace std;
 int main() {
     int sum = 5 + 6;
     cout << "Sum: " << sum << endl;
-    Cout <<"This is name ";
+    cout <<"This is name ";
+    cout <<"Thsudsn";
     return 0;
 }
