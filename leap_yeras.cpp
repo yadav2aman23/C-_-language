@@ -14,7 +14,7 @@ int main(){
                 cout<<"it is not leep yers";
             }
         }else{
-            "it is not leep yers";
+           cout<< "it is not leep yers";
         }
 
     }else
