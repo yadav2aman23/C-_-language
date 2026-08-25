@@ -2,6 +2,8 @@
 using namespace std;
 int main(){
     int years;
+    cout<<"Enter the yeras : ";
+    cin>>years;
     if(years%4==0)
     if(years%100==0){
         cout <<"It is leep yeras ";
@@ -17,8 +19,9 @@ int main(){
     {
         cout <<"It is leep yeras";
     }
-    else
-    {
+    
+
         cout <<"It is not leep yeras";
-    }
+
+    return 0;
 }
