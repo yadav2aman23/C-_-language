@@ -14,7 +14,7 @@ int main(){
             cout<<"This is prime number ";
 
         }
-        for(int i=x; i<x;i++){
+    for(int i=x; i<x;i++){
         cout <<i;
         }
     }
