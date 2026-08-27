@@ -5,9 +5,9 @@ int main(){
     cout << "enter the number:  ";
     cin >>x;
     if(x<=1){
-        if(x%x!=0)
+        if(x%2!=0)
     {
-        cout << "This is prime ";
+        cout << "This is  not  prime ";
     }
     }else
     {
