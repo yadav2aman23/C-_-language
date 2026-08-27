@@ -10,8 +10,9 @@ int main(){
     }
     else{
         bool prime=true;
-        for(int i=2; i<x; i++){
-            
+        for(int i=2; i<x; i++)
+        {
+        if(x%i==0)
         }
     }
 }
