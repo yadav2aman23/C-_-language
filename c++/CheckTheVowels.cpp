@@ -5,14 +5,15 @@ int main(){
     cout << "enter the number:  ";
     cin >>x;
     if(x<=1){
-        if(x%x==0){|
+        if(x%x!=0)
+    {
         cout << "This is prime ";
     }
     }else
     {
-        cout
+        cout<<"this is not prime";
     }
    
-    }
+    
     return 0;
 }
