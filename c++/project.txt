@@ -1,0 +1,10 @@
+Student Marks & Grade Analyzer
+ATM Management System
+Student Result Management System
+Number Pattern Generator
+Multiplication Table Generator
+Matrix Calculator
+Bank Account Management System
+Quiz Management System
+Electricity Bill Calculator
+Simple Inventory Management System

@@ -25,5 +25,5 @@ int main(){
         cout<<"This is not a prime numnber ";
 
     }
-    retuen 0;
+    return 0;
 }
