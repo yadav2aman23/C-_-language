@@ -1,3 +1,6 @@
 #include<iostream>
 using namespace std;
-void 
+void vowl(char x)
+{
+    if (x=='a'|| )
+}
