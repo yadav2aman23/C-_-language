@@ -22,7 +22,7 @@ int main(){
         cout << "\nEnter the marks "<<stud_name[i]<<"\n";
 
         for(int j=0;j<4;j++){
-            cout<<"Enter the marks in "<<stud_sub[j]<<": ";
+            cout<<"\n\nEnter the marks in\t "<<stud_sub[j]<<":\t ";
             cin >> marks[i][j];
         }
 
