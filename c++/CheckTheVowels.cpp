@@ -4,7 +4,7 @@ int main(){
     int x;
     cout << "enter the number:  ";
     cin >>x;
-    if(x%1==0 || x%x==0){
+    if(x%2==0 || x%x==0){
         cout<<"This is prime number :";
 
     }
