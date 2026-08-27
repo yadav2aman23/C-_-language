@@ -33,7 +33,10 @@ int main(){
 
     }
     for(int i=0;i<4;i++){
-     cout <<stud_name[j]<<"\t";
+     cout <<stud_name[i]<<"\t";
+     for(int j=0;j<4;j++){
+        cout<<marks[i][j];
+     }
     
     }
 
