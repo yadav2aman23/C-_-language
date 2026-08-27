@@ -27,7 +27,7 @@ int main(){
         }
 
     }
-    cout <<"Student \t";
+    cout <<"\n\nStudent \t";
     for(int j=0; j<4; j++){
         cout <<stud_sub[j] <<"\t";
 
@@ -37,7 +37,7 @@ int main(){
      for(int j=0;j<4;j++){
         cout<<marks[i][j];
      }
-    
+    cout<<"\n\n";
     }
 
 
