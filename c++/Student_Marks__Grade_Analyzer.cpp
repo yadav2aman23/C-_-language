@@ -27,8 +27,9 @@ int main(){
         }
 
     }
+    cout <<"Student \t";
+    for(int j=0; j)
 
 
     return 0;
-
-}
+
