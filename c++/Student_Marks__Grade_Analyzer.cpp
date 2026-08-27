@@ -19,7 +19,13 @@ int main(){
 
     }
     for(int i=0;i<4;i++){
-        
+        cout << "\nEnter the marks "<<stud_name[i]<<"\n";
+
+        for(int j=0;j<4;j++){
+            cout<<"Enter the marks in "<<stud_sub[j]<<": ";
+            cin >> marks[i][j];
+        }
+
     }
 
 
