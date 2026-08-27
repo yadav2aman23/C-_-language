@@ -33,8 +33,10 @@ int main(){
 
     }
     for(int i=0;i<4;i++){
-        cout <<
+     cout <<stud_name[j]<<"\t";
+    
     }
+
 
 
     return 0;
