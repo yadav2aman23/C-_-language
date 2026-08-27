@@ -7,8 +7,8 @@ int main()
     int subject=4;
     string studentName[4];
 
-    int i;
-    for( i=0; i<4; i++)
+    
+    for(int i=0; i<4; i++)
     {
         cout<<"Enter the student name"<< i+1<<":";
         cin >> studentName[i];
