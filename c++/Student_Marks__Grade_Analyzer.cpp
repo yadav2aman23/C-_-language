@@ -29,7 +29,11 @@ int main(){
     }
     cout <<"Student \t";
     for(int j=0; j<4; j++){
-        cout <<stud_sub[j] <<"\t"
+        cout <<stud_sub[j] <<"\t";
+
+    }
+    for(int i=0;i<4;i++){
+        cout <<
     }
 
 
