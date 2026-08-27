@@ -5,16 +5,9 @@ int main(){
     
     cout << "enter the number:  ";
     cin >> x;
-    if(x<=1){
-        if(x%2==0)
-    {
-        cout << "This is  not  prime ";
+    for(int i=0; i>x; i++){
+        cout << ""
     }
-    }else
-    {
-        cout<<"this is  prime";
-    }
-   
     
     return 0;
 }
