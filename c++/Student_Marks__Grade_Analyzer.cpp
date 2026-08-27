@@ -28,8 +28,11 @@ int main(){
 
     }
     cout <<"Student \t";
-    for(int j=0; j)
+    for(int j=0; j<4; j++){
+        cout <<stud_sub[j] <<"\t"
+    }
 
 
     return 0;
-
+
+}
