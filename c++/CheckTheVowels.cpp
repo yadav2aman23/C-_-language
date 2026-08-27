@@ -14,8 +14,16 @@ int main(){
         {
         if(x%i==0)
         {
-            
+            prime = false;
+            break;
+
         }
         }
+    if(prime)
+    cout<<"This ia a prime number ";
+    else 
+        cout<<"This is not a prime numnber ";
+
     }
+    retuen 0;
 }
